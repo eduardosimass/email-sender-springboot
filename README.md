@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=Tipo&message=Demo&color=8257E5&labelColor=000000" alt="Projeto" />
+ <img src="https://img.shields.io/static/v1?label=Dev&message=Simas&color=#674ea7&labelColor=000000" alt="Projeto" />
 </p>
 
 ## Tecnologias
